@@ -23,7 +23,7 @@
     </ul>
     
 <a href="https://www.amazon.com.br/s?k=odisseia+homero" target="_blank" rel="noopener noreferrer">Comprar o livro A Odisseia na Amazon</a>
-
+<img src="https://picsum.photos/800/600" alt="Imagem de exemplo">
 
 </body>
 </html>
