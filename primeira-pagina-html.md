@@ -22,7 +22,7 @@
         <li><strong>Poseidon:</strong> O deus do mar, que tenta impedir o retorno de Odisseu após este cegar seu filho, o ciclope Polifemo.</li>
     </ul>
     
-[Comprar o livro A Odisseia na Amazon](https://www.amazon.com.br/s?k=odisseia+homero)
+<a href="https://www.amazon.com.br/s?k=odisseia+homero" target="_blank" rel="noopener noreferrer">Comprar o livro A Odisseia na Amazon</a>
 
 
 </body>
