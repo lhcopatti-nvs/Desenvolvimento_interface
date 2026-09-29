@@ -23,7 +23,8 @@
     </ul>
     
 <a href="https://www.amazon.com.br/s?k=odisseia+homero" target="_blank" rel="noopener noreferrer">Comprar o livro A Odisseia na Amazon</a>
-<img src="<img src="CAMINHO_OU_LINK_DA_IMAGEM" alt="Descrição da imagem" width="300">" alt="capa odisseia" width="300">
+
+<img src="[CAMINHO_OU_LINK_DA_IMAGEM](https://www.bing.com/images/search?view=detailV2&ccid=Winr0uw0&id=E4EAB27360B8DCE9C69971024C98ED91A9B2564A&thid=OIP.Winr0uw0OkY8dsi137FGwgHaLA&mediaurl=https%3a%2f%2fblogger.googleusercontent.com%2fimg%2fb%2fR29vZ2xl%2fAVvXsEhJxv9sA5j7WYP6IJNynmKQxR5PsRm1eEqqvsQkua_6irvH-JmC1tzHzPbyJA2W_db8qbHf4JEF3SaHR-ozhqcjgFiUcNgpFSIAjAxhidObfHhEmhNnfVox9_DPR7XU8O_EX3MWXdJoOl5jBpNym-Xl_doJ6S6rgkYu2GWWKN2V7eLcHJ5HYv8Ug7PI8-E%2fs1800%2fCapa_A_Odisseia_de_Homero.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.5a29ebd2ec343a463c76c8b5dfb146c2%3frik%3dSlayqZHtmEwCcQ%26pid%3dImgRaw%26r%3d0&exph=1800&expw=1211&q=odisseia&FORM=IRPRST&ck=523E84A346E88AF87E593C1B4456EF52&selectedIndex=12&itb=0)" alt="odisseia" width="300">
 
 </body>
 </html>
