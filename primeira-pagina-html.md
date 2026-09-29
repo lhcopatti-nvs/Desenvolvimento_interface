@@ -23,7 +23,7 @@
     </ul>
     
 <a href="https://www.amazon.com.br/s?k=odisseia+homero" target="_blank" rel="noopener noreferrer">Comprar o livro A Odisseia na Amazon</a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Odyssey_-_Homer_-_1919_-_title_page.jpg/500px-The_Odyssey_-_Homer_-_1919_-_title_page.jpg" alt="Capa do livro A Odisseia de Homero" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Odyssey_-_Homer_-_1921.jpg/800px-The_Odyssey_-_Homer_-_1921.jpg" alt="Capa do livro A Odisseia de Homero" width="300">
 
 </body>
 </html>
