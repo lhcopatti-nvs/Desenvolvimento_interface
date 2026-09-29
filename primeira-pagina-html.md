@@ -11,5 +11,7 @@ Enquanto Odisseu passa dez anos enfrentando a fúria dos deuses, criaturas míti
 * **Telêmaco:** O filho de Odisseu, que parte em busca de notícias do pai.
 * **Atena:** A deusa da sabedoria que atua como protetora do herói.
 * **Poseidon:** O deus do mar, que tenta impedir o retorno de Odisseu após este cegar seu filho, o ciclope Polifemo.
-[![Manuscrito Histórico da Odisseia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Odyssey_manuscript.jpg/640px-Odyssey_manuscript.jpg)](https://commons.wikimedia.org/wiki/File:Odyssey_manuscript.jpg)
+* 
+[![A Odisseia de Homero - Gareth Hinds](https://m.media-amazon.com/images/I/91NhhD7iBfL._AC_UF1000,1000_QL80_.jpg)](https://www.amazon.com.br/dp/8580573982)
+
 [Comprar o livro A Odisseia na Amazon](https://www.amazon.com.br/s?k=odisseia+homero)
