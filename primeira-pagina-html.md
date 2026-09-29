@@ -1,7 +1,5 @@
 # A Odisseia: A Longa Jornada de Odisseu
 
-![Capa da novela gráfica A Odisseia de Homero, de Gareth Hinds, mostrando Poseidon no mar](image_646365.jpg)
-
 A **Odisseia** é um dos principais poemas épicos da Grécia Antiga, tradicionalmente atribuído ao poeta Homero. A obra narra a longa e perigosa jornada de retorno do herói Odisseu (também conhecido como Ulisses na mitologia romana) à sua ilha natal, Ítaca, logo após o fim da Guerra de Troia.
 
 Enquanto Odisseu passa dez anos enfrentando a fúria dos deuses, criaturas míticas como os Ciclopes e feitiçarias, sua esposa Penélope e seu filho Telêmaco precisam lidar com diversos pretendentes arrogantes em Ítaca, que acreditam que o herói está morto e tentam usurpar o seu trono e a sua riqueza.
@@ -13,5 +11,5 @@ Enquanto Odisseu passa dez anos enfrentando a fúria dos deuses, criaturas míti
 * **Telêmaco:** O filho de Odisseu, que parte em busca de notícias do pai.
 * **Atena:** A deusa da sabedoria que atua como protetora do herói.
 * **Poseidon:** O deus do mar, que tenta impedir o retorno de Odisseu após este cegar seu filho, o ciclope Polifemo.
-
-Para conhecer mais sobre essa aventura épica, você pode acessar a obra original traduzida gratuitamente no portal Domínio Público: [Clique aqui para ler A Odisseia em PDF](http://www.dominiopublico.gov.br/download/texto/cv000020.pdf).
+[![Manuscrito Histórico da Odisseia](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Odyssey_manuscript.jpg/640px-Odyssey_manuscript.jpg)](https://commons.wikimedia.org/wiki/File:Odyssey_manuscript.jpg)
+[Comprar o livro A Odisseia na Amazon](https://www.amazon.com.br/s?k=odisseia+homero)
