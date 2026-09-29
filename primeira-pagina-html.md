@@ -23,8 +23,9 @@
     </ul>
     
 <a href="https://www.amazon.com.br/s?k=odisseia+homero" target="_blank" rel="noopener noreferrer">Comprar o livro A Odisseia na Amazon</a>
-
-   a< <img src="capa.jpg" alt="Capa do livro A Odisseia de Homero" width="300"> </a>
+<a href="https://covers.openlibrary.org/b/isbn/9788573262100-L.jpg" target="_blank" rel="noopener">
+    <img src="https://covers.openlibrary.org/b/isbn/9788573262100-L.jpg" alt="Capa do livro A Odisseia de Homero" width="300" referrerpolicy="no-referrer">
+</a>
 
 </body>
 </html>
