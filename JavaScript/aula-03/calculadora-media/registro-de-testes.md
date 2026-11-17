@@ -1,4 +1,4 @@
-# Registro de testes — Calculadora de Média (versão final)
+# Registro de testes — Aula 3: Calculadora de Média
 
 Critérios: média ≥ 7 → Aprovado; 4 ≤ média < 7 → Recuperação; média < 4 → Reprovado.
 Ambiente: Chrome (headless), página `index.html` aberta direto do arquivo, sem servidor.
@@ -13,4 +13,4 @@ Ambiente: Chrome (headless), página `index.html` aberta direto do arquivo, sem 
 
 Console do navegador durante os testes: nenhum erro.
 
-Prints: `prints/T1.png` a `prints/T5.png`.
+Prints: `../evidencias/print-teste-1.png` a `../evidencias/print-teste-5.png`.
